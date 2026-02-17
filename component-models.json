@@ -1,0 +1,13 @@
+[
+  {
+    "id": "form",
+    "fields": [
+      {
+        "component": "text-input",
+        "name": "name",
+        "label": "Form Name",
+        "value": ""
+      }
+    ]
+  }
+]
