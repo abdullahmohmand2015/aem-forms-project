@@ -1,0 +1,12 @@
+[
+  {
+    "id": "form",
+    "title": "Adaptive Form",
+    "category": "Forms",
+    "plugins": {
+      "xwalk": {
+        "page": "/libs/fd/af/components/page/base"
+      }
+    }
+  }
+]
